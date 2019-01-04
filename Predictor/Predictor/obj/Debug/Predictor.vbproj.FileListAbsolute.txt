@@ -1,0 +1,13 @@
+c:\users\sealtiel\documents\visual studio 2015\Projects\Predictor\Predictor\bin\Debug\Predictor.exe.config
+c:\users\sealtiel\documents\visual studio 2015\Projects\Predictor\Predictor\bin\Debug\Predictor.exe
+c:\users\sealtiel\documents\visual studio 2015\Projects\Predictor\Predictor\bin\Debug\Predictor.pdb
+c:\users\sealtiel\documents\visual studio 2015\Projects\Predictor\Predictor\bin\Debug\Predictor.xml
+c:\users\sealtiel\documents\visual studio 2015\Projects\Predictor\Predictor\obj\Debug\Predictor.vbprojResolveAssemblyReference.cache
+c:\users\sealtiel\documents\visual studio 2015\Projects\Predictor\Predictor\obj\Debug\Predictor.Resources.resources
+c:\users\sealtiel\documents\visual studio 2015\Projects\Predictor\Predictor\obj\Debug\Predictor.vbproj.GenerateResource.Cache
+c:\users\sealtiel\documents\visual studio 2015\Projects\Predictor\Predictor\obj\Debug\Predictor.exe
+c:\users\sealtiel\documents\visual studio 2015\Projects\Predictor\Predictor\obj\Debug\Predictor.xml
+c:\users\sealtiel\documents\visual studio 2015\Projects\Predictor\Predictor\obj\Debug\Predictor.pdb
+c:\users\sealtiel\documents\visual studio 2015\Projects\Predictor\Predictor\obj\Debug\Predictor.Teclado.resources
+c:\users\sealtiel\documents\visual studio 2015\Projects\Predictor\Predictor\obj\Debug\Predictor.Celular.resources
+c:\users\sealtiel\documents\visual studio 2015\Projects\Predictor\Predictor\obj\Debug\Predictor.Menu.resources

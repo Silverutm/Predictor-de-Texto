@@ -1,0 +1,6 @@
+Predictor de Texto
+CarpetaConversaciones
+	El archivo Conv son conversaciones de internet:
+	http://www.aprenderespanol.org/audiciones/vocabulario-practico.html
+	El archivo limpiador.txt sirve para limpiarlo y genera la salida con la que se entrena el predictor de Texto
+
